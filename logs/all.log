@@ -1,0 +1,239 @@
+2024-05-27:39:04:394 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-27:39:04:394 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-27:39:57:3957 - [35mhttp[39m: [35mGET /api/register 404 - - 5.184 ms[39m
+[35m[39m
+2024-05-27:40:02:402 - [35mhttp[39m: [35mPOST /api/register 201 - - 149.487 ms[39m
+[35m[39m
+2024-05-27:40:10:4010 - [35mhttp[39m: [35mPOST /api/login 200 - - 139.243 ms[39m
+[35m[39m
+2024-05-27:43:20:4320 - [35mhttp[39m: [35mPOST /api/register 500 - - 138.204 ms[39m
+[35m[39m
+2024-05-27:43:26:4326 - [35mhttp[39m: [35mPOST /api/register 201 - - 120.919 ms[39m
+[35m[39m
+2024-05-27:43:35:4335 - [35mhttp[39m: [35mPOST /api/login 200 - - 123.623 ms[39m
+[35m[39m
+2024-05-27:47:02:472 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-27:47:02:472 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-27:47:42:4742 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-27:47:42:4742 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-27:47:49:4749 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-27:47:49:4749 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-27:48:07:487 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-27:48:07:487 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-27:49:09:499 - [35mhttp[39m: [35mGET /api/livro - - - - ms[39m
+[35m[39m
+2024-05-27:00:23:023 - [31merror[39m: [31mNão foi possivel conectar ao banco de dados![39m
+2024-05-27:00:23:023 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2024-05-27:00:23:023 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-27:00:28:028 - [35mhttp[39m: [35mGET /api/livro - - - - ms[39m
+[35m[39m
+2024-05-27:01:52:152 - [31merror[39m: [31mNão foi possivel conectar ao banco de dados![39m
+2024-05-27:01:52:152 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2024-05-27:01:52:152 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:40:51:4051 - [31merror[39m: [31mNão foi possivel conectar ao banco de dados![39m
+2024-05-28:40:51:4051 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2024-05-28:40:51:4051 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:35:49:3549 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:35:49:3549 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:36:23:3623 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:36:23:3623 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:41:29:4129 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:41:29:4129 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:41:35:4135 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:41:35:4135 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:43:57:4357 - [35mhttp[39m: [35mGET /api/login 404 - - 2.259 ms[39m
+[35m[39m
+2024-05-28:44:25:4425 - [35mhttp[39m: [35mPOST /api/login 200 - - 143.357 ms[39m
+[35m[39m
+2024-05-28:45:15:4515 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:45:15:4515 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:47:01:471 - [35mhttp[39m: [35mGET /api/livro - - - - ms[39m
+[35m[39m
+2024-05-28:47:27:4727 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:47:27:4727 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:47:41:4741 - [35mhttp[39m: [35mGET /api/livro - - - - ms[39m
+[35m[39m
+2024-05-28:48:38:4838 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:48:38:4838 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:48:39:4839 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:48:39:4839 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:48:44:4844 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:48:44:4844 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:49:03:493 - [35mhttp[39m: [35mGET /api/livro - - - - ms[39m
+[35m[39m
+2024-05-28:49:23:4923 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:49:23:4923 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:50:22:5022 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:50:22:5022 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:50:29:5029 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:50:29:5029 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:53:47:5347 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:53:47:5347 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:53:49:5349 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:53:49:5349 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:54:05:545 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:54:05:545 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:54:07:547 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:54:07:547 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:54:09:549 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:54:09:549 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:54:14:5414 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:54:14:5414 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:54:22:5422 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:54:22:5422 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:18:018 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:18:018 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:20:020 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:20:020 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:22:022 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:22:022 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:25:025 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:25:025 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:26:026 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:26:026 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:28:028 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:28:028 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:30:030 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:30:030 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:43:043 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:43:043 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:47:047 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:47:047 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:50:050 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:50:050 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:51:051 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:51:051 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:53:053 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:53:053 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:00:54:054 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:00:54:054 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:02:05:25 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:02:05:25 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:02:06:26 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:02:06:26 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:02:08:28 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:02:08:28 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:02:23:223 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:02:23:223 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:02:40:240 - [35mhttp[39m: [35mGET /api/livro 403 - - 7.881 ms[39m
+[35m[39m
+2024-05-28:04:59:459 - [35mhttp[39m: [35mGET /api/login 404 - - 4.631 ms[39m
+[35m[39m
+2024-05-28:05:03:53 - [35mhttp[39m: [35mPOST /api/login 200 - - 152.306 ms[39m
+[35m[39m
+2024-05-28:05:30:530 - [35mhttp[39m: [35mGET /api/livros 404 - - 0.807 ms[39m
+[35m[39m
+2024-05-28:05:49:549 - [35mhttp[39m: [35mGET /api/livros 404 - - 1.472 ms[39m
+[35m[39m
+2024-05-28:06:10:610 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:06:10:610 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:06:13:613 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:06:13:613 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:06:16:616 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:06:16:616 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:06:25:625 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:06:25:625 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:06:27:627 - [35mhttp[39m: [35mGET /api/livros 404 - - 1.083 ms[39m
+[35m[39m
+2024-05-28:07:04:74 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:07:04:74 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:07:16:716 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:07:16:716 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:07:19:719 - [35mhttp[39m: [35mGET /api/livros 404 - - 1.135 ms[39m
+[35m[39m
+2024-05-28:07:29:729 - [35mhttp[39m: [35mGET /api/livros 404 - - 0.956 ms[39m
+[35m[39m
+2024-05-28:07:34:734 - [35mhttp[39m: [35mGET /api/livros 404 - - 1.950 ms[39m
+[35m[39m
+2024-05-28:08:29:829 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:08:29:829 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:09:01:91 - [35mhttp[39m: [35mPOST /api/login 200 - - 127.562 ms[39m
+[35m[39m
+2024-05-28:09:22:922 - [35mhttp[39m: [35mGET /api/livros 404 - - 1.776 ms[39m
+[35m[39m
+2024-05-28:10:06:106 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:10:06:106 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:10:11:1011 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:10:11:1011 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:10:21:1021 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:10:21:1021 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:10:34:1034 - [35mhttp[39m: [35mPOST /api/login 200 - - 124.103 ms[39m
+[35m[39m
+2024-05-28:11:17:1117 - [35mhttp[39m: [35mGET /api/livro 403 - - 15.465 ms[39m
+[35m[39m
+2024-05-28:11:33:1133 - [35mhttp[39m: [35mGET /api/livro 200 - - 57.923 ms[39m
+[35m[39m
+2024-05-28:17:00:170 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:00:170 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:02:172 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:02:172 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:08:178 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:08:178 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:09:179 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:09:179 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:10:1710 - [35mhttp[39m: [35mGET /api/livro 200 - - 51.095 ms[39m
+[35m[39m
+2024-05-28:17:32:1732 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:32:1732 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:34:1734 - [35mhttp[39m: [35mGET /api/livro 200 - - 41.305 ms[39m
+[35m[39m
+2024-05-28:17:44:1744 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:44:1744 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:48:1748 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:17:48:1748 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:17:48:1748 - [35mhttp[39m: [35mGET /api/livro 200 - - 37.877 ms[39m
+[35m[39m
+2024-05-28:18:11:1811 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:18:11:1811 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:18:56:1856 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:18:56:1856 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:18:57:1857 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:18:57:1857 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:18:58:1858 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:18:58:1858 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:19:22:1922 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:19:22:1922 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:19:57:1957 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:19:57:1957 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:20:01:201 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:20:01:201 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:20:10:2010 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:20:10:2010 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:20:13:2013 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:20:13:2013 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:21:36:2136 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:21:36:2136 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:21:37:2137 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:21:37:2137 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:21:39:2139 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:21:39:2139 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:21:59:2159 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:21:59:2159 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:22:20:2220 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:22:20:2220 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:22:25:2225 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:22:25:2225 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:22:30:2230 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:22:30:2230 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:22:41:2241 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:22:41:2241 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:22:45:2245 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:22:45:2245 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:22:54:2254 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:22:54:2254 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:29:15:2915 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:29:15:2915 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:29:20:2920 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:29:20:2920 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:29:35:2935 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:29:35:2935 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:29:38:2938 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:29:38:2938 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:29:41:2941 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:29:41:2941 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:29:52:2952 - [32minfo[39m: [32mConectou com o banco de dados com sucesso![39m
+2024-05-28:29:52:2952 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-05-28:04:07:47 - [35mhttp[39m: [35mGET /api/login 404 - - 4.966 ms[39m
+[35m[39m
+2024-05-28:04:41:441 - [35mhttp[39m: [35mPOST /api/login 500 - - 30034.363 ms[39m
+[35m[39m
